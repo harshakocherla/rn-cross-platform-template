@@ -7,5 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Harsha Kocherla",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-dom": "^18.3.1",
+    "react-native-web": "^0.19.12"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.19.12"
+  }
 }
